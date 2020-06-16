@@ -1,1 +1,1 @@
-"# Prognose-der-Kundenabwanderung-" 
+# Prognose der Kundenabwanderung
